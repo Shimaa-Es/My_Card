@@ -14,7 +14,6 @@ body {
  background-color: #171023 ;
  flex-direction: column;
  flex-wrap: wrap;
- overflow-y: auto;
  overflow-x: hidden;
 }
 
