@@ -19,7 +19,7 @@ body {
 }
 
 .container{
-   width: 30%;
+   width: 400px;
    background-color:#E5D9F2;
    border-radius: 8px;
    display: flex;
