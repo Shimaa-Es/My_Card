@@ -29,6 +29,7 @@ body {
    padding: 0 12px;
    margin: auto;
    box-shadow: 0px 0px 10px #9955e8;
+   padding-bottom: none;
 }
 
 .avatar{
